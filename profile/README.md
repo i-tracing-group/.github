@@ -1,4 +1,8 @@
+<br>
+
 <img src="../images/logo.png" style="height: 6em; margin-top: 3em; margin-bottom: 3em;"/>
+
+<br>
 
 # Human intelligence for cybersecurity
 
