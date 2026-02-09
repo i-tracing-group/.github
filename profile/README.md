@@ -1,6 +1,6 @@
 <br>
 
-<img src="../images/logo.png" style="height: 6em; margin-top: 3em; margin-bottom: 3em;"/>
+<img src="../images/logo.png" style="width: 24em; margin-top: 3em; margin-bottom: 3em;"/>
 
 <br>
 
